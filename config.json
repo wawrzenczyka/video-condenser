@@ -3,9 +3,9 @@
   "ask_when_multiple_srt": true,
   "filtered_characters": "♩♪♫♬～〜",
   "filter_parentheses": true,
-  "output_format": "mp3",
+  "output_format": "opus",
   "sub_suffix": "",
-  "fixed_output_dir": null,
+  "fixed_output_dir": "H:/Anime Sound Files/Anime Sound Library",
   "fixed_output_dir_with_subfolders": true,
   "use_system_ffmpeg": false
 }
